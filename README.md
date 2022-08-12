@@ -4,5 +4,9 @@ This is sampe how to use `react-native-gesture-handler` and `react-native-reanim
 
 Build with:
 - `expo`: 46.0.6
-- `react`: 18.0.0"
+- `react`: 18.0.0
 - `react-native`: 0.69.4
+
+List of samples:
+- [Sample #1](https://github.com/darkterminal/react-native-reanimated-sample/tree/master) <-- current
+- [Sample #2](https://github.com/darkterminal/react-native-reanimated-sample/tree/pan-gesture-handler)
