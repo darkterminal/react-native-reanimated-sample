@@ -10,3 +10,4 @@ Build with:
 List of samples:
 - [Sample #1](https://github.com/darkterminal/react-native-reanimated-sample/tree/master) <-- current
 - [Sample #2](https://github.com/darkterminal/react-native-reanimated-sample/tree/pan-gesture-handler)
+- [Sample #3](https://github.com/darkterminal/react-native-reanimated-sample/tree/interpolate-with-scrollview)
